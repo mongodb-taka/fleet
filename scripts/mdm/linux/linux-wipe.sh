@@ -54,3 +54,4 @@ else
     echo "Wiping, system will be unreachable"
     nohup sh $0 wipe >/dev/null 2>/dev/null </dev/null &
 fi
+
